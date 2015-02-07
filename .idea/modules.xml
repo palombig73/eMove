@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eMove.iml" filepath="$PROJECT_DIR$/eMove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eMove/eMove.iml" filepath="$PROJECT_DIR$/eMove/eMove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eMove/eMove.iml" filepath="$PROJECT_DIR$/eMove/eMove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eMove/eMoveWebApp/eMoveWebApp.iml" filepath="$PROJECT_DIR$/eMove/eMoveWebApp/eMoveWebApp.iml" />
     </modules>
   </component>
 </project>
